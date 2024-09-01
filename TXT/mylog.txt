@@ -1,4 +1,32 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https:/osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 10 L03 GitHub related
+ZCZC W00 60 L00 General
+ZCZC W00 30 L01 SCELE/Discord related
+ZCZC W00 60 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 30 L03 GitHub related
+ZCZC W00 10 L04 Github page related
+ZCZC W00 120 L05 Quiz related including studying 
+ZCZC W00 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W00 60 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W00 180 L09 Assignment in general
+ZCZC W00 30 L11 Assignment #01
+ZCZC W00 10 L12 Assignment #02
+ZCZC W00 10 L13 Assignment #03
+ZCZC W00 10 L14 Assignment #04
+ZCZC W00 90 L15 Assignment #05
+ZCZC W00 30 L16 Assignment #06
+ZCZC W00 120 L17 Trying something
+ZCZC W00 40 L40 TXT/ related in general.
+ZCZC W00 40 L41 TXT/mylog.txt related.
+ZCZC W00 30 L64 Helping a friend (OS related problem)
+ZCZC W00 180 L70 Studying for other courses.
+ZCZC W00 300 L73 Gaming including Board Games.
+ZCZC W00 240 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W00 300 L81 Listening: Radio, Music, etc.
+ZCZC W00 120 L82 Reading Book (paper or online)
+ZCZC W00 30 L83 Pets: feeding, playing, etc
+ZCZC W00 600 L84 Relax, Rest, Nap, and Sleep
+ZCZC W00 30 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W00 60 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W00 30 L88 Workout/Sport/Exercise/ETC.

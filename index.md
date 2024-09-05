@@ -2,7 +2,7 @@
 
 # OS242 : favianzhafif26
 
-[TIPS]() - [LINKS]() - [LOG](https://github.com/favianzhafif26/os242/blob/main/TXT/mylog.txt) - [GitHub](https://github.com/favianzhafif26/os242)
+[HOME](https://favianzhafif26.github.io/os242/) - [LINKS](https://favianzhafif26.github.io/os242/LINKS/) - [LOG](https://github.com/favianzhafif26/os242/blob/main/TXT/mylog.txt) - [GitHub](https://github.com/favianzhafif26/os242)
 
 
-### REV 05/09/2024 08.32
+### REV 05/09/2024 08.42

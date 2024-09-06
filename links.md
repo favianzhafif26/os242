@@ -6,7 +6,7 @@ permalink: LINKS/
 
 # LINKS
 
-* [Learn Regular Expressions In 20 Minutes]((https://www.youtube.com/watch?v=rhzKDrUiJVk)){:target="_blank"} ---
+* [Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk){:target="_blank"} ---
   This video on Youtube made learning the basics of Regex quick and easy to learn
 <br>
 <br>

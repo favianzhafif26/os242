@@ -216,3 +216,34 @@ ZCZC W06 600 L84 Relax, Rest, Nap, and Sleep
 ZCZC W06 30 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
 ZCZC W06 60 L87 Breakfast/Lunch/Dinner/Snake
 ZCZC W06 30 L88 Workout/Sport/Exercise/ETC.
+
+ZCZC W07 60 L00 General
+ZCZC W07 30 L01 SCELE/Discord related
+ZCZC W07 60 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 240 L03 GitHub related
+ZCZC W07 90 L04 Github page related
+ZCZC W07 120 L05 Quiz related including studying 
+ZCZC W07 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 60 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W07 480 L09 Assignment in general
+ZCZC W07 300 L11 Assignment #01
+ZCZC W07 20 L12 Assignment #02
+ZCZC W07 60 L13 Assignment #03
+ZCZC W07 90 L14 Assignment #04
+ZCZC W07 10 L15 Assignment #05
+ZCZC W07 120 L17 Trying something
+ZCZC W07 300 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W07 120 L32 YouTube: watching OS related topics, etc.
+ZCZC W07 50 L40 TXT/ related in general.
+ZCZC W07 40 L41 TXT/mylog.txt related.
+ZCZC W07 90 L64 Helping a friend (OS related problem)
+ZCZC W07 180 L70 Studying for other courses.
+ZCZC W07 300 L73 Gaming including Board Games.
+ZCZC W07 240 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W07 300 L81 Listening: Radio, Music, etc.
+ZCZC W07 120 L82 Reading Book (paper or online)
+ZCZC W07 30 L83 Pets: feeding, playing, etc
+ZCZC W07 600 L84 Relax, Rest, Nap, and Sleep
+ZCZC W0 30 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W07 60 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W07 30 L88 Workout/Sport/Exercise/ETC.
